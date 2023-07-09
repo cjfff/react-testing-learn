@@ -11,12 +11,13 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
+          data-testid="learn-link"
           className="App-link"
-          href="https://reactjs.org"
+          href="http://github.com/cjfff"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          learn testing
         </a>
       </header>
     </div>
